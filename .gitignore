@@ -23,3 +23,12 @@ go.work.sum
 
 # env file
 .env
+
+# IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
